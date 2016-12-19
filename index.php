@@ -15,6 +15,8 @@ and open the template in the editor.
         
         <h2>Sous-titre</h2>
         <p>Deuxième modification</p>
+        <h3>ajout de modification</h3>
+        <p> je suis le collaborateur J'ai hacké ton projet hahahahahaha </p>
         <?php
         // put your code here
         ?>
